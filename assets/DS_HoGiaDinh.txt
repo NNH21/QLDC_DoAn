@@ -1,0 +1,43 @@
+Thanh vien: Ng Hoang | 19 | Sinh Vien | 123 | 1
+Thanh vien: Kieu Oanh | 13 | Hoc Sinh | 143 | 2
+Thanh vien: Quang Ninh | 15 | Hoc Sinh | 324 | 3
+Thanh vien: Dam Binh | 12 | Hoc Sinh | 13434 | 12
+Thanh vien: Kieu Minh | 12 | Hoc Sinh | 1435 | 8
+Thanh vien: Phuong Anh | 43 | Noi Tro | 2341 | 8
+Thanh vien: Quang Dao | 12 | Hoc Sinh | 12234 | 6
+Thanh vien: Kim Chi | 12 | Hoc Sinh | 1224325 | 6
+Thanh vien: Dao Minh Tuan | 56 | Bac Si | 135 | 9
+Thanh vien: Le Thi My | 45 | Khong Co | 1244 | 9
+Thanh vien: Dinh Bang | 18 | Hoc Sinh' | 231423 | 5
+Thanh vien: Tuan Kiet | 43 | Nong Nghiep | 35321 | 5
+Thanh vien: Kieu Diem | 54 | Khong Co | 13241 | 11
+Thanh vien: Quang Phan | 12 | Hoc Sinh | 12413 | 11
+Thanh vien: Quan Quan | 12 | Hoc Sinh | 12334` | 65
+Thanh vien: Quang Dam | 14 | Hoc Sinh | 14314 | 24
+Thanh vien: Lich Thu | 43 | Danh Ca | 25134 | 24
+Thanh vien: Quynh Anh 1 | 12 | Hoc Sinh | 32412 | 25
+Thanh vien: Dinh Dung | 43 | Nong Nghiep | 342125 | 54
+Thanh vien: Bao Linh | 21 | Sinh Vien | 42413 | 47
+Thanh vien: Ngo Binh | 13 | Khong Co | 54543 | 48
+Thanh vien: Dao Huy | 31 | Khong Co | 23178 | 48
+Thanh vien: Anh Chi | 23 | Sinh Vien | 41412 | 67
+Thanh vien: Cat Tien | 34 | Khong Co | 14234 | 67
+Thanh vien: Ngoc Bich | 12 | Hoc SInh | 313134 | 49
+Thanh vien: Ngoc Hoang | 12 | Hoc SInh | 42341 | 49
+Thanh vien: Tuan Hung | 14 | Hoc SInh | 4131 | 49
+Thanh vien: Oanh Lieu | 11 | Hoc SInh | 1432 | 49
+Thanh vien: Tuan An | 17 | Hoc Sinh | 432 | 49
+Thanh vien: Anh Tuan | 12 | Hoc Sinh | 31212 | 49
+Thanh vien: Nam Cao | 15 | Hoc Sinh | 154141 | 49
+Thanh vien: Gio Lao | 16 | Hoc Sinh | 35413 | 49
+Thanh vien: Anh Van | 16 | Hoc Sinh | 342135 | 49
+Thanh vien: Nhu Loan | 54 | Khong Co | 52412 | 59
+Thanh vien: Ng Nhi | 21 | Sinh Vien | 123445 | 81
+Thanh vien: Ng Nhi2 | 22 | Sinh Vien | 1234565 | 81
+Thanh vien: NgNhi 3 | 23 | Bac Si | 1234567 | 82
+Thanh vien: Hong Ha 1 | 21 | Sinh Vien | 654231 | 91
+Thanh vien: Hong Ha 2 | 22 | Sinh Vien | 7654321 | 92
+Thanh vien: tg4g | 4 | 3rg3 | 43413 | 6576
+Thanh vien: Kiet Tuan 1 | 21 | Sinh Vien | 123421 | 123
+Thanh vien: Tuan Hung 1 | 21 | Sinh Vien | 12345342 | 211
+Thanh vien: Lan Anh 1 | 21 | Sinh Vien | 31231 | 222
